@@ -9,9 +9,9 @@
 - 📫 Puedes contactarme a través de mi correo electrónico 'santiagoteranmatias@gmail.com' para colaboraciones o consultas.
 
 ### **Proyectos Destacados**
-- 🚀 Proyecto 1 - Breve descripción del proyecto y enlace al repositorio.
-- 🚀 Proyecto 2 - Breve descripción del proyecto y enlace al repositorio.
-- 🚀 Proyecto 3 - Breve descripción del proyecto y enlace al repositorio.
+- 🚀 Pokemon App - La Pokédex es una Single Page Application creada por un estudiante de SoyHenry como proyecto individual. Esta aplicación permite buscar información detallada sobre los Pokémon, incluyendo sus estadísticas, y más. https://pokemon-deploy-git-main-santi-teran.vercel.app/.
+- 🚀 Movie App - Una emocionante Single Page Application (SPA) diseñada con Next.js 13.4, Tailwind, Supabase y la potente API de TMDB. https://movie-app-santi-teran.vercel.app/.
+- 🚀 Weather App - Una Single Page Application (SPA) diseñada con Next.js 13.4, Tailwind, y la potente Weather API. https://weather-app-santi-teran.vercel.app/.
 
 ### **Contacto**
 Si deseas comunicarte conmigo, puedes encontrarme en las siguientes plataformas:
