@@ -1,6 +1,9 @@
 <h1 align="center">¡Hola! Soy Santi 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+### 🚀 Sobre mí:
+Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas nuevas. Me encanta trabajar en proyectos que resuelvan problemas reales y colaborar en equipo para llevar ideas a la realidad.
+
 ### 🎓 Formación:
 - **Estudiante de Desarrollo de Software** en Instituto IDRA, Mar del Plata.
 - **Full Stack Developer** en Soy Henry.
@@ -12,7 +15,7 @@
 ### 🛠️ Tecnologías que uso:
 
 #### Lenguajes:
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -21,7 +24,7 @@
 </p>
 
 #### Frameworks y Librerías:
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -30,14 +33,11 @@
 </p>
 
 #### Herramientas:
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
-
-### 🚀 Sobre mí:
-Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas nuevas. Me encanta trabajar en proyectos que resuelvan problemas reales y colaborar en equipo para llevar ideas a la realidad.
 
 ### 🎮 Hobbies:
 Cuando no estoy programando, me encanta ir al gimnasio 💪, leer libros 📚, jugar videojuegos 🎮, y pasar tiempo con amigos.
