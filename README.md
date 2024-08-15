@@ -9,11 +9,6 @@ Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas
 - **Estudiante de Desarrollo de Software** en Instituto IDRA, Mar del Plata.
 - **Full Stack Developer** en Soy Henry.
 
-### 💼 Experiencia:
-- **Full Stack Developer** en Sinergia RH - Digital Argentina.
-- **Fundador y COO** en Marea Tech.
-- **Web Content Uploader** en GAO RFID Inc.
-
 ### 🛠️ Tecnologías que uso:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
