@@ -1,27 +1,34 @@
-# Hola 👋! Soy Santi 😎
-
-## Full Stack Developer
-
-### 🚀 Sobre mí:
-Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas nuevas. Me encanta trabajar en proyectos que resuelvan problemas reales y colaborar en equipo para llevar ideas a la realidad.
+# ¡Hola! Soy Santi 👋
 
 ### 🎓 Formación:
 - **Estudiante de Desarrollo de Software** en Instituto IDRA, Mar del Plata.
 - **Full Stack Developer** en Soy Henry.
+- **Cursos adicionales:**
+  - **Desarrollo Web Full Stack** en Coderhouse.
+  - **JavaScript Moderno** en Udemy.
+  - **ReactJS Avanzado** en Platzi.
 
 ### 🛠️ Tecnologías que uso:
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)           
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### Lenguajes:
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+#### Frameworks y Librerías:
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+
+#### Herramientas:
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
+
+### 🚀 Sobre mí:
+Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas nuevas. Me encanta trabajar en proyectos que resuelvan problemas reales y colaborar en equipo para llevar ideas a la realidad.
 
 ### 🎮 Hobbies:
-Fuera del código, me verás jugando videojuegos 🎮, aprendiendo algo nuevo o disfrutando de un buen rato con amigos.
+Cuando no estoy programando, me encanta ir al gimnasio 💪, leer libros 📚, jugar videojuegos 🎮, y pasar tiempo con amigos.
