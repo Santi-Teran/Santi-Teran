@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋! Soy Santi 😎</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+
 ### 🚀 Sobre mí:
 Soy un apasionado del desarrollo web, siempre en busca de aprender y crear cosas nuevas. Me encanta trabajar en proyectos que resuelvan problemas reales y colaborar en equipo para llevar ideas a la realidad.
 
